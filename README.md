@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @randahouari.
 - 👀 I’m interested in Programing and Machine Learning.
-- 🌱 I’m currently learning Deep Learning.
+- 🌱 I’m currently learning Deep Learning and NLP.
 - 💞️ I’m looking to collaborate on new interesting projects.
-- 📫 How to reach me -> houariranda6@gmail.com
+- 📫 How to reach me -> houariranda.isii@gmail.com
 
 <!---
 randahouari/randahouari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
